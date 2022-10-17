@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona</string>
+    <string name="q_1">Studia inżynierskie trwają 3.5 roku</string>
+    <string name="q_2">Politechnika Białostocka istnieje 25 lat</string>
+    <string name="q_3">Systemy mobilne są na 5 semestrze</string>
+    <string name="q_4">Najlepszy system mobilny system operacyjny to IOS</string>
+    <string name="q_5">Najlapszą marką telefonów nie są Iphony</string>
+</resources>
